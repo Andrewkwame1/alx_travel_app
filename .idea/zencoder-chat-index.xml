@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ai.zencoder.plugin.chat.index">
+    <option name="activeChatId" value="cfb9679a-e3fb-4716-ad13-57b08c1a4099" />
+    <option name="chatMetadata" value="{&quot;cfb9679a-e3fb-4716-ad13-57b08c1a4099&quot;:{&quot;id&quot;:&quot;cfb9679a-e3fb-4716-ad13-57b08c1a4099&quot;,&quot;title&quot;:&quot;Django Travel App Initialization&quot;,&quot;createdAt&quot;:1757385931036,&quot;updatedAt&quot;:1757387905807,&quot;isAgent&quot;:true,&quot;isNameGenerated&quot;:true,&quot;messageCount&quot;:17,&quot;lastMessagePreview&quot;:&quot;**Organizing project files**\n\nI realize we should remove the unused directory to reduce confusion; i...&quot;}}" />
+  </component>
+</project>
